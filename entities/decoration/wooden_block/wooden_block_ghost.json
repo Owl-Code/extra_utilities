@@ -1,4 +1,5 @@
 {
+  "mixins": "stonehearth:mixins:placed_object",
   "components": {
     "model_variants": {
       "default": {
