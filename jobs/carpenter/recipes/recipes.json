@@ -1,0 +1,11 @@
+{
+	"craftable_recipes": {
+		"furniture": {
+			"recipes": {
+				"wooden_block":{
+					"recipe": "file(wooden_block_recipe.json)"
+				}
+			}
+		}	
+	}	
+}

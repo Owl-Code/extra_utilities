@@ -1,0 +1,15 @@
+{
+  "info": {
+    "name": "Extra Utilities",
+    "namespace": "extra_utilities",
+    "version": 3
+  },
+  "default_locale": "en",
+  "aliases": {
+    "furniture:wooden_block": "file(entities/furniture/block/wooden_block.json)"
+  },
+  "mixintos":{
+    "stonehearth/jobs/carpenter/recipes/recipes.json" : "extra_utilities/jobs/carpenter/recipes/recipes.json",
+  }
+
+}

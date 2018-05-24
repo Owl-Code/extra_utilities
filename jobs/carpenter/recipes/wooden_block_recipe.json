@@ -1,0 +1,21 @@
+{
+   "type": "recipe",
+   "work_units": 2,
+   "recipe_name": "i18n(extra_utilities:jobs.carpenter.recipes.wooden_block_recipe.recipe_name)",
+   "description": "i18n(extra_utilities:jobs.carpenter.recipes.wooden_block_recipe.description)",
+   "portrait": "/extra_utilities/entities/furniture/wooden_block/wooden_block.png",
+   "workshop" : "stonehearth:carpenter:toolbench",
+   "level_requirement": 1,
+   "workshop": "stonehearth:carpenter:workbench",
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "extra_utilities:furniture:wooden_block"
+      }
+   ]
+}
