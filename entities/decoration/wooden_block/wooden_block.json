@@ -5,7 +5,7 @@
   "components": {
     "stonehearth:entity_forms": {
       "iconic_form": "file(wooden_block_iconic.json)",
-      "ghost_form": "file(wooden_block_ghost)",
+      "ghost_form": "file(wooden_block_ghost.json)",
       "placeable_on_ground": true
     },
     "region_collision_shape": {
