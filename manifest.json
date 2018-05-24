@@ -6,7 +6,7 @@
   },
   "default_locale": "en",
   "aliases": {
-    "furniture:wooden_block": "file(entities/furniture/block/wooden_block.json)"
+    "furniture:wooden_block": "file(entities/furniture/block/wooden_block)"
   },
   "mixintos":{
     "stonehearth/jobs/carpenter/recipes/recipes.json" : "extra_utilities/jobs/carpenter/recipes/recipes.json",
